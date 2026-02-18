@@ -58,12 +58,6 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-munozmolina\&layout=compact)
-
----
-
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/salvador-munoz1408/]
