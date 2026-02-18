@@ -80,13 +80,6 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 * Design and develop **Full Stack applications** using .NET and JAVA
 * Build and optimize **Stored Procedures** and database objects
 * Develop REST APIs and integrate frontend with backend services
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-munozmolina\&layout=compact)
-
 ---
 
 ## 📫 Connect with Me
