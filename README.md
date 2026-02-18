@@ -15,6 +15,13 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 
 ### Backend
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+</p>
+
 * JAVA / Springboot
 * C# / .NET
 * Oracle (PL-SQL, Stored Procedures, Jobs)
@@ -25,6 +32,13 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 
 ### Frontend
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
+
 
 * Angular (Bootstrap)
 * JavaScript / TypeScript
@@ -34,6 +48,11 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 
 ### Databases
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40" />
+</p>
+
 * SQL Server
 * Oracle
 
@@ -41,6 +60,12 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 
 ### Tools
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
+</p>
 
 * Maven
 * Git / GitHub
@@ -55,6 +80,12 @@ Full Stack Software Developer with strong experience in **.NET backend developme
 * Design and develop **Full Stack applications** using .NET and JAVA
 * Build and optimize **Stored Procedures** and database objects
 * Develop REST APIs and integrate frontend with backend services
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-munozmolina\&layout=compact)
 
 ---
 
