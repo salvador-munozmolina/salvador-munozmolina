@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Salvador Muñoz
 
-<!--
-**salvador-munozmolina/salvador-munozmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer (.NET & JAVA)**
+📍 Mexico | 🌎 Open to Remote Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Full Stack Software Developer with strong experience in **.NET backend development and React frontend applications**. Specialized in building data-driven systems using **SQL Server**, designing optimized stored procedures, ETL processes, and modern, responsive web interfaces. I have worked on backend and database projects, collaborating with multidisciplinary teams and delivering reliable and scalable solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* JAVA / Springboot
+* C# / .NET
+* Oracle (PL-SQL, Stored Procedures, Jobs)
+* SQL Server (T-SQL, Stored Procedures, Jobs)
+* REST API's
+
+---
+
+### Frontend
+
+
+* Angular (Bootstrap)
+* JavaScript / TypeScript
+* HTML5 / CSS3
+
+---
+
+### Databases
+
+* SQL Server
+* Oracle
+
+---
+
+### Tools
+
+
+* Maven
+* Git / GitHub
+* Postman
+* JIRA
+* Visual Studio / VS Code
+
+---
+
+## 💼 What I Do
+
+* Design and develop **Full Stack applications** using .NET and JAVA
+* Build and optimize **Stored Procedures** and database objects
+* Develop REST APIs and integrate frontend with backend services
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-munozmolina\&layout=compact)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/salvador-munoz1408/]
+* 📧 Email: [salvadormm1404@outlook.com]
+
+---
+
+⭐ *Focused on building clean, reliable and scalable full stack solutions with .NET and JAVA.*
